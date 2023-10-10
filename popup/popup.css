@@ -1,0 +1,55 @@
+
+@import url('../assets/fonts/font.css');
+
+body {
+     text-align: center;
+     direction: rtl;
+}
+
+.d-flex {
+     display: flex !important;
+}
+
+table {
+     min-width: max-content;
+}
+
+.align-center {
+     align-items: center !important;
+     justify-items: center !important;
+     justify-content: center !important;
+     text-align: center !important;
+}
+
+.mt-1 {
+     margin-top: 5px;
+}
+
+.circle-logo {
+     display: flex;
+     position: relative;
+     vertical-align: top;
+     height: 30px;
+     font-weight: 30px;
+     direction: ltr !important;
+}
+
+.circle-logo-base {
+     height: 30px;
+     width: 30px;
+     border-radius: 50%;
+     z-index: 5;
+}
+
+.circle-logo-quote {
+     height: 30px;
+     width: 30px;
+     border-radius: 50%;
+     margin-left: -10px;
+     z-index: 4;
+}
+
+#desc {
+     margin-top: 20px;
+     font-size: 8px;
+}
