@@ -2,7 +2,7 @@
 
 ## Introduction
 
-A simple Chrome extension to fetch data from an API and display it in a clean, customizable HTML table.
+A Chrome extension that provides latest cryptocurrency price information from the Iranian online exchange, Nobitex, and display it in a simple, clean HTML table.
 
 Below is a screenshot showcasing the extension:
 
